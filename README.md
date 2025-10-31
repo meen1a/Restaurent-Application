@@ -21,8 +21,4 @@ It includes frontend and backend functionality to support a smooth ordering expe
 - Express.js
 - MongoDB (Mongoose)
 
-## 📦 Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/meen1a/Restaurent-Application.git
